@@ -4,4 +4,5 @@
 
 ## Opendata
 
-- [Dataset CSV](https://github.com/open-comune/libri-in-transito/blob/master/opendata/dataset.csv)
+- [Dataset CSV](/opendata/dataset.csv)
+- [Dataset geoJSON](/opendata/dataset.geojson)
