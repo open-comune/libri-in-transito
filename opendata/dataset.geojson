@@ -6,13 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2824972,
+          45.5992641
         ]
       },
       "properties": {
-        "title": "Caffè del Parco, Viale Cavriga Villasanta ",
-        "description": "Note: ",
+        "title": "Caffè del Parco, Viale Cavriga, 20900 MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -22,13 +22,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.3155397,
+          45.6188641
         ]
       },
       "properties": {
-        "title": "Enoteca con cucina Arco del Re, Via Papina, 4 Arcore ",
-        "description": "Note: ",
+        "title": "Enoteca con cucina Arco del Re, Via Papina, 4, 20862 Arcore MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -38,13 +38,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2039505,
+          45.6391205
         ]
       },
       "properties": {
-        "title": "Caffè Velò, Via Pacini, 20 Seregno ",
-        "description": "Note: ",
+        "title": "Caffè Velò, Via Giovanni Pacini, 20, 20831 Seregno MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -54,13 +54,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.202961,
+          45.649987
         ]
       },
       "properties": {
-        "title": "Trattoria Spotti, Via Marconi, 6 Seregno ",
-        "description": "Note: ",
+        "title": "Trattoria Spotti, Via Guglielmo Marconi, 6, 20831 Seregno MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -70,13 +70,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.1631961,
+          45.6594584
         ]
       },
       "properties": {
-        "title": "Caffetteria Moderno, Via Indipendenza, 61 Meda ",
-        "description": "Note: ",
+        "title": "Caffetteria Moderno, Via Indipendenza, 61, 20821 Meda MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -86,13 +86,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2703207,
+          45.57961299999999
         ]
       },
       "properties": {
-        "title": "Wine Line, Via XX Settembre, 4 Monza ",
-        "description": "Note: ",
+        "title": "Wine Line, Via XX Settembre, 4, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -102,13 +102,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2718096,
+          45.5840299
         ]
       },
       "properties": {
-        "title": "Caffè The Flat, Via P.R. Giuliani Monza ",
-        "description": "Note: ",
+        "title": "Caffè The Flat, Via Padre Reginaldo Giuliani, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -118,13 +118,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2536793,
+          45.61504619999999
         ]
       },
       "properties": {
-        "title": "Enoteca del Convegno, Via C. Cattaneo, 53 Lissone ",
-        "description": "Note: ",
+        "title": "Enoteca del Convegno, Via Carlo Cattaneo, 53, 20851 Lissone MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -134,13 +134,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2366584,
+          45.61693349999999
         ]
       },
       "properties": {
-        "title": "Enoteca Cà di Matt, Via Como, 52/a Lissone ",
-        "description": "Note: ",
+        "title": "Enoteca Cà di Matt, Via Como, 52A, 20851 Lissone MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -150,13 +150,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2049465,
+          45.6119346
         ]
       },
       "properties": {
-        "title": "Gastronomia Safràn, Via Garibaldi Desio ",
-        "description": "Note: ",
+        "title": "Gastronomia Safràn, Via Giuseppe Garibaldi, 20832 Desio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -166,13 +166,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2830269,
+          45.5733117
         ]
       },
       "properties": {
-        "title": "Officine Libra, Via Buonarroti, 72 Monza ",
-        "description": "Note: ",
+        "title": "Officine Libra, Via Michelangelo Buonarroti, 72, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -182,13 +182,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.207583,
+          45.61825100000001
         ]
       },
       "properties": {
-        "title": "Abbigliamento Kids, Corso Italia, 22 Desio ",
-        "description": "Note: ",
+        "title": "Abbigliamento Kids, Corso Italia, 22, 20832 Desio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -198,13 +198,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.338918999999999,
+          45.588719
         ]
       },
       "properties": {
-        "title": "Parisi Caffè, Via A. Volta, 7 Villasanta ",
-        "description": "Note: ",
+        "title": "Parisi Caffè, Via A. Volta, 7, 20863 Concorezzo MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -214,13 +214,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.224232299999999,
+          45.4996898
         ]
       },
       "properties": {
-        "title": "Mi Casa Toasteria, Via Boiardo Milano ",
-        "description": "Note: ",
+        "title": "Mi Casa Toasteria, Via Matteo Maria Boiardo, Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -230,13 +230,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.230233,
+          45.5334
         ]
       },
       "properties": {
-        "title": "Biosballo, Via Marconi, 11 Sesto San Giovanni ",
-        "description": "Note: ",
+        "title": "Biosballo, Via Guglielmo Marconi, 11, 20099 Sesto San Giovanni MI, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -246,13 +246,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2314651,
+          45.6718591
         ]
       },
       "properties": {
-        "title": "Il Gatto e la Volpe, Via Mascherpa, 14 Carate Brianza ",
-        "description": "Note: ",
+        "title": "Il Gatto e la Volpe, Via Giuseppe Mascherpa, 14, 20841 Carate Brianza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -262,13 +262,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2402829,
+          45.6755721
         ]
       },
       "properties": {
-        "title": "Trattoria La Mescita, Via San Simpliciano, 3 Carate Brianza ",
-        "description": "Note: ",
+        "title": "Trattoria La Mescita, Via S. Simpliciano, 3, 20841 Carate Brianza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -278,13 +278,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.1602903,
+          45.4528537
         ]
       },
       "properties": {
-        "title": "Cinema MEXICO, Via Savona, 57 Milano ",
-        "description": "Note: ",
+        "title": "Cinema MEXICO, Via Savona, 57, 20144 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -294,13 +294,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.286571799999999,
+          45.6455828
         ]
       },
       "properties": {
-        "title": "Il Caffè della Vecchia Stazione, Via Lambro, 72 Macherio ",
-        "description": "Note: ",
+        "title": "Il Caffè della Vecchia Stazione, Via Lambro, 72, 20846 Triuggio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -310,13 +310,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.1956376,
+          45.4615626
         ]
       },
       "properties": {
-        "title": "Il Panino, Via Laghetto, 7 Mialno ",
-        "description": "Note: ",
+        "title": "Il Panino, Via Laghetto, 7, 20122 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -326,13 +326,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.1896933,
+          45.4511809
         ]
       },
       "properties": {
-        "title": "Margy Bistro, Via Bligny, 15 Milano ",
-        "description": "Note: ",
+        "title": "Margy Bistro, Viale Bligny, 15, 20136 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -342,13 +342,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.229674,
+          45.5841828
         ]
       },
       "properties": {
-        "title": "Via Venti Restaurant Winebar, Via Milano, 10 Muggiò 20835",
-        "description": "Note: ",
+        "title": "Via Venti Restaurant Winebar, Via Milano, 10, 20835 Muggiò MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -358,13 +358,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.3491467,
+          45.5736722
         ]
       },
       "properties": {
-        "title": "Caffè Paren, Via Matteotti, 43 Agrate Brianza 20041",
-        "description": "Note: ",
+        "title": "Caffè Paren, Via Matteotti, 43, 20864 Agrate Brianza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -374,13 +374,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2275365,
+          45.533516
         ]
       },
       "properties": {
-        "title": "Mens@sana - Gastronomia vegana, Via C. Battisti, 16 Sesto S. Giovanni ",
-        "description": "Note: ",
+        "title": "Mens@sana - Gastronomia vegana, Via Cesare Battisti, 16, 20099 Sesto San Giovanni MI, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -390,13 +390,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.3820601,
+          45.550887
         ]
       },
       "properties": {
-        "title": "Variopinto di Stefano Brovelli, Via G. Deledda, 21  Pessano con Bornago ",
-        "description": "Note: ",
+        "title": "Variopinto di Stefano Brovelli, Via Grazia Deledda, 21, 20060 Pessano Con Bornago MI, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -406,13 +406,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          8.8191329,
+          45.8228915
         ]
       },
       "properties": {
-        "title": "Bar La Cupola, P.zza Giovanni XXIII, 13 Varese ",
-        "description": "Note: ",
+        "title": "Bar La Cupola, Piazza Papa Giovanni XXIII, 13, 21100 Varese VA, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -422,13 +422,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.1849361,
+          45.490204
         ]
       },
       "properties": {
-        "title": "L'Isola della Birra, Via Medardo Rosso Milano ",
-        "description": "Note: ",
+        "title": "L'Isola della Birra, Via Medardo Rosso, 20159 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -438,13 +438,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2281278,
+          45.5781652
         ]
       },
       "properties": {
-        "title": "FRUTTETO BRIGO Lino, Via Confalonieri, 49/b Muggiò ",
-        "description": "Note: ",
+        "title": "FRUTTETO BRIGO Lino, Via Federico Confalonieri, 49B, 20835 Muggiò MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -454,13 +454,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2805763,
+          45.5855427
         ]
       },
       "properties": {
-        "title": "VICTORY54 Restaurant, Via Aliprandi, 17 Monza ",
-        "description": "Note: ",
+        "title": "VICTORY54 Restaurant, Via Aliprandi, 17, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -470,13 +470,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.357965,
+          45.581152
         ]
       },
       "properties": {
-        "title": "AL PERDUTO STILE Hair Stylist, Via Padre C. Vismara, 53 Agrate Brianza 20864",
-        "description": "Note: ",
+        "title": "AL PERDUTO STILE Hair Stylist, Via Padre Clemente Vismara, 53, 20864 Agrate Brianza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -486,13 +486,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.297932399999999,
+          45.6014391
         ]
       },
       "properties": {
-        "title": "SCUOLA DI AGRARIA DEL PARCO DI MONZA, Viale Cavriga, 3 Monza 20052",
-        "description": "Note: ",
+        "title": "SCUOLA DI AGRARIA DEL PARCO DI MONZA, Viale Cavriga, 3, 20900 Villasanta MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -502,13 +502,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.434569,
+          45.6398102
         ]
       },
       "properties": {
-        "title": "Agriturismo FONDO BRUGAROLO, Via A. Manzoni, 15 Sulbiate 20884",
-        "description": "Note: ",
+        "title": "Agriturismo FONDO BRUGAROLO, Via Manzoni, 15, 20884 Sulbiate MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -518,13 +518,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.325956,
+          45.628557
         ]
       },
       "properties": {
-        "title": "Caffé Gilò, Largo Arienti, 66 Arcore 20043",
-        "description": "Note: ",
+        "title": "Caffé Gilò, Piazza Carlo Arienti, 66, 20862 Arcore MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -534,13 +534,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.27176,
+          45.5929
         ]
       },
       "properties": {
-        "title": "DERBY GRILL HOTEL DE LA VILLE, Viale Regina Margherita, 15 Monza 20052",
-        "description": "Note: ",
+        "title": "DERBY GRILL HOTEL DE LA VILLE, Viale Regina Margherita, 15, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -550,13 +550,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.301508700000001,
+          45.606179
         ]
       },
       "properties": {
-        "title": "Osteria DEL DOSSO, Parco di Monza (ingresso dal parcheggio di via Deledda a Villasanta)  ",
-        "description": "Note: ",
+        "title": "Osteria DEL DOSSO, 20852 Villasanta MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -566,13 +566,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2917557,
+          45.582681
         ]
       },
       "properties": {
-        "title": "Osteria LA LIRA, Via Amati, 52 Monza 20052",
-        "description": "Note: ",
+        "title": "Osteria LA LIRA, Via Carlo Amati, 52, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -582,13 +582,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.324008,
+          45.5631689
         ]
       },
       "properties": {
-        "title": "LA FATA VERDE, Via Talete, 2/a Agrate Brianza 20864",
-        "description": "Note: ",
+        "title": "LA FATA VERDE, Via Talete, 2, 20864 Agrate Brianza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -598,13 +598,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.3506012,
+          45.5762117
         ]
       },
       "properties": {
-        "title": "Osteria IL PORCO MAIALE, Piazza S. Eusebio, 9 Agrate Brianza 20864",
-        "description": "Note: ",
+        "title": "Osteria IL PORCO MAIALE, Piazza Sant'Eusebio, 9, 20864 Agrate Brianza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -614,13 +614,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.3155752,
+          45.6188495
         ]
       },
       "properties": {
-        "title": "L'ARCO DEL RE Enoteca con cucina, Via Papina, 4/a Arcore 20862",
-        "description": "Note: ",
+        "title": "L'ARCO DEL RE Enoteca con cucina, Via Papina, 4/A, 20862 Arcore MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -630,13 +630,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.29839,
+          45.63449
         ]
       },
       "properties": {
-        "title": "Trattoria LA RAVA E LA FAVA, Cascina Campello, 1 Biassono 20853",
-        "description": "Note: ",
+        "title": "Trattoria LA RAVA E LA FAVA, Cascina Campello, 1, 20853 Biassono MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -646,13 +646,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.3125888,
+          45.54188689999999
         ]
       },
       "properties": {
-        "title": "LA VOLTA ROSSA, Via Increa, 70 Brugherio 20861",
-        "description": "Note: ",
+        "title": "LA VOLTA ROSSA, Via Increa, 70, 20861 Brugherio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -662,13 +662,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.3125888,
+          45.54188689999999
         ]
       },
       "properties": {
-        "title": "SAMSARA, Via Increa, 70 Brugherio 20861",
-        "description": "Note: ",
+        "title": "SAMSARA, Via Increa, 70, 20861 Brugherio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -678,13 +678,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.4644206,
+          45.6164655
         ]
       },
       "properties": {
-        "title": "Agriturismo CASCINA GALLINA,  Busnago 20874",
-        "description": "Note: ",
+        "title": "Agriturismo CASCINA GALLINA, 20874 Busnago MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -694,13 +694,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.323626,
+          45.654305
         ]
       },
       "properties": {
-        "title": "TAVERNA DEI VIANDANTI, Viale Brianza, 25 Camparada 20857",
-        "description": "Note: ",
+        "title": "TAVERNA DEI VIANDANTI, Via Viale Brianza, 25, 20857 Camparada MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -710,13 +710,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2403099,
+          45.6750741
         ]
       },
       "properties": {
-        "title": "LA PIANA, Via Zappelli, 15 Carate Brianza 20841",
-        "description": "Note: ",
+        "title": "LA PIANA, Via Pietro Zappelli, 15, 20841 Carate Brianza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -726,13 +726,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.4166847,
+          45.5801818
         ]
       },
       "properties": {
-        "title": "Ristorante DODICI24, Largo Kennedy, 1 Cavenago di Brianza 20873",
-        "description": "Note: ",
+        "title": "Ristorante DODICI24, Largo Kennedy, 1, 20873 Cavenago di Brianza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -742,13 +742,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.3048214,
+          45.6309692
         ]
       },
       "properties": {
-        "title": "Trattoria LA CA', Via XXIV Maggio, 54 Lesmo 20855",
-        "description": "Note: ",
+        "title": "Trattoria LA CA', Via XXIV Maggio, 54, 20855 Arcore MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -758,13 +758,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2108247,
+          45.6469065
         ]
       },
       "properties": {
-        "title": "Trattoria del Gallo, Via Stefano da Seregno, 53 Seregno 20831",
-        "description": "Note: ",
+        "title": "Trattoria del Gallo, Via Stefano da Seregno, 53, 20831 Seregno MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -774,13 +774,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.328673,
+          45.6608019
         ]
       },
       "properties": {
-        "title": "Trattoria PIN DEL RUS, Via Cappelletta, 1 - Usmate Velate 20865",
-        "description": "Note: ",
+        "title": "Trattoria PIN DEL RUS, Via Cappelletta, 1, 20865 Dosso MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -790,13 +790,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.1407633,
+          45.4411867
         ]
       },
       "properties": {
-        "title": "RSA CLINICA S. MARTA Gruppo Segesta, Via Parenzo, 9 Milano ",
-        "description": "Note: ",
+        "title": "RSA CLINICA S. MARTA Gruppo Segesta, Via Parenzo, 9, 20143 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -806,13 +806,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.273024,
+          45.5849245
         ]
       },
       "properties": {
-        "title": "BISTROT Caffé e Parole, Via Missori, 3 Monza ",
-        "description": "Note: ",
+        "title": "BISTROT Caffé e Parole, Via Giuseppe Missori, 3, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -822,13 +822,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.208748,
+          45.648437
         ]
       },
       "properties": {
-        "title": "GELATI E CAFFÉ FINO, Corso Matteotti, 36 Seregno 20831",
-        "description": "Note: ",
+        "title": "GELATI E CAFFÉ FINO, Corso Matteotti, 36, 20831 Seregno MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -838,13 +838,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.267917299999999,
+          45.5914667
         ]
       },
       "properties": {
-        "title": "IL GUSCIO Ristorante ed Enoteca, Via Matteo da Campione, 8 Monza 20052",
-        "description": "Note: ",
+        "title": "IL GUSCIO Ristorante ed Enoteca, Via Matteo da Campione, 8, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -854,13 +854,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2171067,
+          45.4925505
         ]
       },
       "properties": {
-        "title": "IL TEMPIO D'ORO, Via delle Leghe, 23 Milano ",
-        "description": "Note: ",
+        "title": "IL TEMPIO D'ORO, Via delle Leghe, 23, 20127 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -870,13 +870,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.205352999999999,
+          45.65096140000001
         ]
       },
       "properties": {
-        "title": "GUARDAROBA Negozio di abbigliamento, Via A. Volta, 17 Seregno 20831",
-        "description": "Note: ",
+        "title": "GUARDAROBA Negozio di abbigliamento, Via Alessandro Volta, 17, 20831 Seregno MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -886,13 +886,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.1093837,
+          45.646709
         ]
       },
       "properties": {
-        "title": "OSTERIA GARIBALDI, Via Longoni, 150/152 Barlassina 20030",
-        "description": "Note: ",
+        "title": "OSTERIA GARIBALDI, Via Longoni, 150, 20825 Cogliate MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -902,13 +902,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2706874,
+          45.5665288
         ]
       },
       "properties": {
-        "title": "NO NAME Café Restaurant, Via Carnia, 2 Monza 20052",
-        "description": "Note: ",
+        "title": "NO NAME Café Restaurant, Via Carnia, 2, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -918,13 +918,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.302567999999999,
+          45.607101
         ]
       },
       "properties": {
-        "title": "IL VECCHIO COTONIFICIO, P.zza Cesare Pavese, 5 Villasanta 20852",
-        "description": "Note: ",
+        "title": "IL VECCHIO COTONIFICIO, Piazza Cesare Pavese, 5, 20852 Villasanta MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -934,13 +934,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.208331,
+          45.62260999999999
         ]
       },
       "properties": {
-        "title": "BAR DEL CORSO di E. Bertoncello, Corso Italia, 137 Desio 20832",
-        "description": "Note: ",
+        "title": "BAR DEL CORSO di E. Bertoncello, Corso Italia, 137, 20832 Desio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -950,13 +950,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2179758,
+          45.6398173
         ]
       },
       "properties": {
-        "title": "AL MACALLE' CAFFE', Via Pontiggia, 16 Seregno 20832",
-        "description": "Note: ",
+        "title": "AL MACALLE' CAFFE', Via L. Pontiggia, 16, 20831 Seregno MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -966,13 +966,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2761333,
+          45.58422849999999
         ]
       },
       "properties": {
-        "title": "CAFFE' SAVOIA, Via Vittorio Emanuele, 4 Monza 20900",
-        "description": "Note: ",
+        "title": "CAFFE' SAVOIA, Via Vittorio Emanuele II, 4, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -982,13 +982,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.248522099999999,
+          45.5956607
         ]
       },
       "properties": {
-        "title": "CERTO food for good, Viale Elvezia, 52 Monza  20900",
-        "description": "Note: ",
+        "title": "CERTO food for good, Viale Elvezia, 52, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -998,13 +998,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.221567,
+          45.696664
         ]
       },
       "properties": {
-        "title": "RARO ACCONCIATURE SNC di Tono Raffaella e Colombari Roberta, Via S. Michele Monte, 1/B Robbiano di Giussano 20833",
-        "description": "Note: ",
+        "title": "RARO ACCONCIATURE SNC di Tono Raffaella e Colombari Roberta, Via Monte S. Michele, 1, 20833 Giussano MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1014,13 +1014,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2203609,
+          45.49314649999999
         ]
       },
       "properties": {
-        "title": "OSTERIA CRESPI Vini & Sfizi, Via Pietro Crespi, 14 Milano 20127",
-        "description": "Note: ",
+        "title": "OSTERIA CRESPI Vini & Sfizi, Via Pietro Crespi, 14, 20127 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1030,13 +1030,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.146980899999999,
+          45.6291354
         ]
       },
       "properties": {
-        "title": "PASTICCERIA BORROMEO, Via Borromeo, 29 Cesano Maderno 20811",
-        "description": "Note: ",
+        "title": "PASTICCERIA BORROMEO, Via S. Carlo Borromeo, 29, 20811 Cesano Maderno MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1046,13 +1046,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2168181,
+          45.6096718
         ]
       },
       "properties": {
-        "title": "BFD di Marco Farina & C. Snc, Via G. Rossini, 102 Desio 20832",
-        "description": "Note: ",
+        "title": "BFD di Marco Farina & C. Snc, Via Gioacchino Rossini, 102, 20832 Desio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1062,13 +1062,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.279188399999999,
+          45.5855715
         ]
       },
       "properties": {
-        "title": "OASI DI SAN GERARDO - Cooperativa LA MERIDIANA, Via Gerardo dei Tintori, 18 Monza 20090",
-        "description": "Note: ",
+        "title": "OASI DI SAN GERARDO - Cooperativa LA MERIDIANA, Via Gerardo dei Tintori, 18, 20900 Monza MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1078,13 +1078,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.338028,
+          45.6347
         ]
       },
       "properties": {
-        "title": "BARCELO' CAFFE' PUB, Via A. Grandi, 18 Arcore 20862",
-        "description": "Note: ",
+        "title": "BARCELO' CAFFE' PUB, Via Achille Grandi, 18, 20862 Arcore MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1094,13 +1094,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.21139,
+          45.51536
         ]
       },
       "properties": {
-        "title": "AGAPE snc, Piazza della Trivulziana, 5 Milano 20126",
-        "description": "Note: ",
+        "title": "AGAPE snc, Piazza della Trivulziana, 5, 20126 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1110,13 +1110,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.243497,
+          45.5088635
         ]
       },
       "properties": {
-        "title": "ZAN ZARA ZAN Café - La Maison du Mekong, Via A. Meucci, 39 Milano 20100",
-        "description": "Note: ",
+        "title": "ZAN ZARA ZAN Café - La Maison du Mekong, Via Privata Antonio Meucci, 39, 20128 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1126,13 +1126,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.206367199999999,
+          45.4708324
         ]
       },
       "properties": {
-        "title": "RIAD, Viale Piave, 17 Milano 20100",
-        "description": "Note: ",
+        "title": "RIAD, Viale Piave, 17, 20129 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1142,13 +1142,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.681569999999999,
+          45.02718000000001
         ]
       },
       "properties": {
-        "title": "PASTICCERIA PODESTÁ, Strada Bobbiese, 26 Piacenza 29122",
-        "description": "Note: ",
+        "title": "PASTICCERIA PODESTÁ, Str. Bobbiese, 26, 29122 Piacenza PC, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1158,13 +1158,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2051602,
+          45.4782023
         ]
       },
       "properties": {
-        "title": "MINT Garden Café, Via Felice Casati, 12 Milano 20124",
-        "description": "Note: ",
+        "title": "MINT Garden Café, Via Felice Casati, 12, 20124 Milano, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1174,13 +1174,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          12.4766566,
+          41.9069266
         ]
       },
       "properties": {
-        "title": "'GUSTO OSTERIA FORMAGGERIA, Via della Frezza, 16 Roma 00186",
-        "description": "Note: ",
+        "title": "'GUSTO OSTERIA FORMAGGERIA, Via della Frezza, 16, 00186 Roma, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1190,13 +1190,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.207168,
+          45.616979
         ]
       },
       "properties": {
-        "title": "GIUSSANI ABBIGLIAMENTO OLTRE LA 46, Via Garibaldi, 31 Desio 20832",
-        "description": "Note: ",
+        "title": "GIUSSANI ABBIGLIAMENTO OLTRE LA 46, Via Giuseppe Garibaldi, 31, 20832 Desio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1206,13 +1206,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.207524,
+          45.617916
         ]
       },
       "properties": {
-        "title": "GELATERIA IL PISTACCHIO, C.so Italia, 14 Desio 20832",
-        "description": "Note: ",
+        "title": "GELATERIA IL PISTACCHIO, Corso Italia, 14, 20832 Desio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1222,13 +1222,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2075824,
+          45.6173708
         ]
       },
       "properties": {
-        "title": "BAR CENTRALE, P.za Conciliazione Desio 20832",
-        "description": "Note: ",
+        "title": "BAR CENTRALE, Piazza Conciliazione, 20832 Desio MB, Italia",
+        "description": "",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1238,13 +1238,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.2074379,
+          45.6182639
         ]
       },
       "properties": {
-        "title": "Caffè Vergnano, Corso Italia, 49 Desio 20832",
-        "description": "Note: ",
+        "title": "Caffè Vergnano, Corso Italia, 49, 20832 Desio MB, Italia",
+        "description": "Note: INATTIVO PER CAMBIO GESTIONE",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
@@ -1254,13 +1254,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          9.3575971,
+          45.5811601
         ]
       },
       "properties": {
-        "title": "Ristorante P.I.E.R, Via Vismara, 87 Agrate Brianza ",
-        "description": "Note: ",
+        "title": "Ristorante P.I.E.R, Via Padre Clemente Vismara, 87, 20864 Agrate Brianza MB, Italia",
+        "description": "Note: INATTIVO PER CAMBIO GESTIONE",
         "marker-symbol": "library",
         "marker-color": "#8f5d00"
       }
