@@ -1,0 +1,1269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Caffè del Parco, Viale Cavriga Villasanta ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Enoteca con cucina Arco del Re, Via Papina, 4 Arcore ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Caffè Velò, Via Pacini, 20 Seregno ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Trattoria Spotti, Via Marconi, 6 Seregno ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Caffetteria Moderno, Via Indipendenza, 61 Meda ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Wine Line, Via XX Settembre, 4 Monza ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Caffè The Flat, Via P.R. Giuliani Monza ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Enoteca del Convegno, Via C. Cattaneo, 53 Lissone ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Enoteca Cà di Matt, Via Como, 52/a Lissone ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Gastronomia Safràn, Via Garibaldi Desio ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Officine Libra, Via Buonarroti, 72 Monza ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Abbigliamento Kids, Corso Italia, 22 Desio ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Parisi Caffè, Via A. Volta, 7 Villasanta ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Mi Casa Toasteria, Via Boiardo Milano ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Biosballo, Via Marconi, 11 Sesto San Giovanni ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Il Gatto e la Volpe, Via Mascherpa, 14 Carate Brianza ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Trattoria La Mescita, Via San Simpliciano, 3 Carate Brianza ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Cinema MEXICO, Via Savona, 57 Milano ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Il Caffè della Vecchia Stazione, Via Lambro, 72 Macherio ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Il Panino, Via Laghetto, 7 Mialno ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Margy Bistro, Via Bligny, 15 Milano ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Via Venti Restaurant Winebar, Via Milano, 10 Muggiò 20835",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Caffè Paren, Via Matteotti, 43 Agrate Brianza 20041",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Mens@sana - Gastronomia vegana, Via C. Battisti, 16 Sesto S. Giovanni ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Variopinto di Stefano Brovelli, Via G. Deledda, 21  Pessano con Bornago ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Bar La Cupola, P.zza Giovanni XXIII, 13 Varese ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "L'Isola della Birra, Via Medardo Rosso Milano ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "FRUTTETO BRIGO Lino, Via Confalonieri, 49/b Muggiò ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "VICTORY54 Restaurant, Via Aliprandi, 17 Monza ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "AL PERDUTO STILE Hair Stylist, Via Padre C. Vismara, 53 Agrate Brianza 20864",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "SCUOLA DI AGRARIA DEL PARCO DI MONZA, Viale Cavriga, 3 Monza 20052",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Agriturismo FONDO BRUGAROLO, Via A. Manzoni, 15 Sulbiate 20884",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Caffé Gilò, Largo Arienti, 66 Arcore 20043",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "DERBY GRILL HOTEL DE LA VILLE, Viale Regina Margherita, 15 Monza 20052",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Osteria DEL DOSSO, Parco di Monza (ingresso dal parcheggio di via Deledda a Villasanta)  ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Osteria LA LIRA, Via Amati, 52 Monza 20052",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "LA FATA VERDE, Via Talete, 2/a Agrate Brianza 20864",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Osteria IL PORCO MAIALE, Piazza S. Eusebio, 9 Agrate Brianza 20864",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "L'ARCO DEL RE Enoteca con cucina, Via Papina, 4/a Arcore 20862",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Trattoria LA RAVA E LA FAVA, Cascina Campello, 1 Biassono 20853",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "LA VOLTA ROSSA, Via Increa, 70 Brugherio 20861",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "SAMSARA, Via Increa, 70 Brugherio 20861",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Agriturismo CASCINA GALLINA,  Busnago 20874",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "TAVERNA DEI VIANDANTI, Viale Brianza, 25 Camparada 20857",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "LA PIANA, Via Zappelli, 15 Carate Brianza 20841",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Ristorante DODICI24, Largo Kennedy, 1 Cavenago di Brianza 20873",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Trattoria LA CA', Via XXIV Maggio, 54 Lesmo 20855",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Trattoria del Gallo, Via Stefano da Seregno, 53 Seregno 20831",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Trattoria PIN DEL RUS, Via Cappelletta, 1 - Usmate Velate 20865",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "RSA CLINICA S. MARTA Gruppo Segesta, Via Parenzo, 9 Milano ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "BISTROT Caffé e Parole, Via Missori, 3 Monza ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "GELATI E CAFFÉ FINO, Corso Matteotti, 36 Seregno 20831",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "IL GUSCIO Ristorante ed Enoteca, Via Matteo da Campione, 8 Monza 20052",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "IL TEMPIO D'ORO, Via delle Leghe, 23 Milano ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "GUARDAROBA Negozio di abbigliamento, Via A. Volta, 17 Seregno 20831",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "OSTERIA GARIBALDI, Via Longoni, 150/152 Barlassina 20030",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "NO NAME Café Restaurant, Via Carnia, 2 Monza 20052",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "IL VECCHIO COTONIFICIO, P.zza Cesare Pavese, 5 Villasanta 20852",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "BAR DEL CORSO di E. Bertoncello, Corso Italia, 137 Desio 20832",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "AL MACALLE' CAFFE', Via Pontiggia, 16 Seregno 20832",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "CAFFE' SAVOIA, Via Vittorio Emanuele, 4 Monza 20900",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "CERTO food for good, Viale Elvezia, 52 Monza  20900",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "RARO ACCONCIATURE SNC di Tono Raffaella e Colombari Roberta, Via S. Michele Monte, 1/B Robbiano di Giussano 20833",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "OSTERIA CRESPI Vini & Sfizi, Via Pietro Crespi, 14 Milano 20127",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "PASTICCERIA BORROMEO, Via Borromeo, 29 Cesano Maderno 20811",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "BFD di Marco Farina & C. Snc, Via G. Rossini, 102 Desio 20832",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "OASI DI SAN GERARDO - Cooperativa LA MERIDIANA, Via Gerardo dei Tintori, 18 Monza 20090",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "BARCELO' CAFFE' PUB, Via A. Grandi, 18 Arcore 20862",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "AGAPE snc, Piazza della Trivulziana, 5 Milano 20126",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "ZAN ZARA ZAN Café - La Maison du Mekong, Via A. Meucci, 39 Milano 20100",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "RIAD, Viale Piave, 17 Milano 20100",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "PASTICCERIA PODESTÁ, Strada Bobbiese, 26 Piacenza 29122",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "MINT Garden Café, Via Felice Casati, 12 Milano 20124",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "'GUSTO OSTERIA FORMAGGERIA, Via della Frezza, 16 Roma 00186",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "GIUSSANI ABBIGLIAMENTO OLTRE LA 46, Via Garibaldi, 31 Desio 20832",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "GELATERIA IL PISTACCHIO, C.so Italia, 14 Desio 20832",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "BAR CENTRALE, P.za Conciliazione Desio 20832",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Caffè Vergnano, Corso Italia, 49 Desio 20832",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "title": "Ristorante P.I.E.R, Via Vismara, 87 Agrate Brianza ",
+        "description": "Note: ",
+        "marker-symbol": "library",
+        "marker-color": "#8f5d00"
+      }
+    }
+  ]
+}

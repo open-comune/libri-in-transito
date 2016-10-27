@@ -1,0 +1,626 @@
+{
+  "viale cavriga, villasanta": {
+    "formatted_address": "Viale Cavriga, 20900 MB, Italia",
+    "location": {
+      "lat": 45.5992641,
+      "lng": 9.2824972
+    },
+    "place_id": "ChIJIxKxSIa5hkcR5DM2f9wO7-U"
+  },
+  "via papina, 4, arcore": {
+    "formatted_address": "Via Papina, 4, 20862 Arcore MB, Italia",
+    "location": {
+      "lat": 45.6188641,
+      "lng": 9.3155397
+    },
+    "place_id": "ChIJHXgfU226hkcRLP1ERlWXOy8"
+  },
+  "via pacini, 20, seregno": {
+    "formatted_address": "Via Giovanni Pacini, 20, 20831 Seregno MB, Italia",
+    "location": {
+      "lat": 45.6391205,
+      "lng": 9.2039505
+    },
+    "place_id": "EjFWaWEgR2lvdmFubmkgUGFjaW5pLCAyMCwgMjA4MzEgU2VyZWdubyBNQiwgSXRhbGlh"
+  },
+  "via marconi, 6, seregno": {
+    "formatted_address": "Via Guglielmo Marconi, 6, 20831 Seregno MB, Italia",
+    "location": {
+      "lat": 45.649987,
+      "lng": 9.202961
+    },
+    "place_id": "ChIJy57NLPm8hkcRDTTylNffEFk"
+  },
+  "via indipendenza, 61, meda": {
+    "formatted_address": "Via Indipendenza, 61, 20821 Meda MB, Italia",
+    "location": {
+      "lat": 45.6594584,
+      "lng": 9.1631961
+    },
+    "place_id": "ChIJpRnaxXq9hkcROp8QfcZzKyk"
+  },
+  "via xx settembre, 4, monza": {
+    "formatted_address": "Via XX Settembre, 4, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.57961299999999,
+      "lng": 9.2703207
+    },
+    "place_id": "ChIJTbBcLKe5hkcRVe_SPdkuwZY"
+  },
+  "via p.r. giuliani, monza": {
+    "formatted_address": "Via Padre Reginaldo Giuliani, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.5840299,
+      "lng": 9.2718096
+    },
+    "place_id": "ChIJh7kILaC5hkcR5hbKOShnp9M"
+  },
+  "via c. cattaneo, 53, lissone": {
+    "formatted_address": "Via Carlo Cattaneo, 53, 20851 Lissone MB, Italia",
+    "location": {
+      "lat": 45.61504619999999,
+      "lng": 9.2536793
+    },
+    "place_id": "ChIJvV4dcei7hkcRPKA3HnLaSZ0"
+  },
+  "via como, 52/a, lissone": {
+    "formatted_address": "Via Como, 52A, 20851 Lissone MB, Italia",
+    "location": {
+      "lat": 45.61693349999999,
+      "lng": 9.2366584
+    },
+    "place_id": "ChIJmynrc_e7hkcRyETTgQpyRxw"
+  },
+  "via garibaldi, desio": {
+    "formatted_address": "Via Giuseppe Garibaldi, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6119346,
+      "lng": 9.2049465
+    },
+    "place_id": "ChIJH2cELJ6-hkcRfyknwdFF5QY"
+  },
+  "via buonarroti, 72, monza": {
+    "formatted_address": "Via Michelangelo Buonarroti, 72, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.5733117,
+      "lng": 9.2830269
+    },
+    "place_id": "ChIJT5kTsrC5hkcRjKYTGyCMkSg"
+  },
+  "corso italia, 22, desio": {
+    "formatted_address": "Corso Italia, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61825100000001,
+      "lng": 9.207583
+    },
+    "place_id": "ChIJ7ddLKz28hkcR9kKEAhlTIB8"
+  },
+  "via a. volta, 7, villasanta": {
+    "formatted_address": "Via A. Volta, 7, 20863 Concorezzo MB, Italia",
+    "location": {
+      "lat": 45.588719,
+      "lng": 9.338918999999999
+    },
+    "place_id": "ChIJ1abkeUi3hkcRXEDaKEipKf8"
+  },
+  "via boiardo, milano": {
+    "formatted_address": "Via Matteo Maria Boiardo, Milano, Italia",
+    "location": {
+      "lat": 45.4996898,
+      "lng": 9.224232299999999
+    },
+    "place_id": "ChIJe7x2DRnHhkcRO5XB0J8Po-E"
+  },
+  "via marconi, 11, sesto san giovanni": {
+    "formatted_address": "Via Guglielmo Marconi, 11, 20099 Sesto San Giovanni MI, Italia",
+    "location": {
+      "lat": 45.5334,
+      "lng": 9.230233
+    },
+    "place_id": "ChIJ86lMd5-4hkcR3uZIpn2RxJg"
+  },
+  "via mascherpa, 14, carate brianza": {
+    "formatted_address": "Via Giuseppe Mascherpa, 14, 20841 Carate Brianza MB, Italia",
+    "location": {
+      "lat": 45.6718591,
+      "lng": 9.2314651
+    },
+    "place_id": "ChIJLw1Vurm8hkcRuq7So6mFzKA"
+  },
+  "via san simpliciano, 3, carate brianza": {
+    "formatted_address": "Via S. Simpliciano, 3, 20841 Carate Brianza MB, Italia",
+    "location": {
+      "lat": 45.6755721,
+      "lng": 9.2402829
+    },
+    "place_id": "ChIJCVEu1a-8hkcRqM1H7Gb1WEg"
+  },
+  "via savona, 57, milano": {
+    "formatted_address": "Via Savona, 57, 20144 Milano, Italia",
+    "location": {
+      "lat": 45.4528537,
+      "lng": 9.1602903
+    },
+    "place_id": "ChIJl8eUUObDhkcRftIEnEQZ9R8"
+  },
+  "via lambro, 72, macherio": {
+    "formatted_address": "Via Lambro, 72, 20846 Triuggio MB, Italia",
+    "location": {
+      "lat": 45.6455828,
+      "lng": 9.286571799999999
+    },
+    "place_id": "EilWaWEgTGFtYnJvLCA3MiwgMjA4NDYgVHJpdWdnaW8gTUIsIEl0YWxpYQ"
+  },
+  "via laghetto, 7, mialno": {
+    "formatted_address": "Via Laghetto, 7, 20122 Milano, Italia",
+    "location": {
+      "lat": 45.4615626,
+      "lng": 9.1956376
+    },
+    "place_id": "ChIJI0QqEKbGhkcRYkmPTgd34YQ"
+  },
+  "via bligny, 15, milano": {
+    "formatted_address": "Viale Bligny, 15, 20136 Milano, Italia",
+    "location": {
+      "lat": 45.4511809,
+      "lng": 9.1896933
+    },
+    "place_id": "ChIJodv83QTEhkcRspkuMMDMRnY"
+  },
+  "via milano, 10, muggiò, 20835": {
+    "formatted_address": "Via Milano, 10, 20835 Muggiò MB, Italia",
+    "location": {
+      "lat": 45.5841828,
+      "lng": 9.229674
+    },
+    "place_id": "ChIJh4UHvza5hkcRH3UZRr3HUTc"
+  },
+  "via matteotti, 43, agrate brianza, 20041": {
+    "formatted_address": "Via Matteotti, 43, 20864 Agrate Brianza MB, Italia",
+    "location": {
+      "lat": 45.5736722,
+      "lng": 9.3491467
+    },
+    "place_id": "ChIJpWJoihm3hkcRd5MQ9_hSjmE"
+  },
+  "via c. battisti, 16, sesto s. giovanni": {
+    "formatted_address": "Via Cesare Battisti, 16, 20099 Sesto San Giovanni MI, Italia",
+    "location": {
+      "lat": 45.533516,
+      "lng": 9.2275365
+    },
+    "place_id": "ChIJu3smsqG4hkcR41PXfJh51pI"
+  },
+  "via g. deledda, 21, pessano con bornago": {
+    "formatted_address": "Via Grazia Deledda, 21, 20060 Pessano Con Bornago MI, Italia",
+    "location": {
+      "lat": 45.550887,
+      "lng": 9.3820601
+    },
+    "place_id": "EjxWaWEgR3JhemlhIERlbGVkZGEsIDIxLCAyMDA2MCBQZXNzYW5vIENvbiBCb3JuYWdvIE1JLCBJdGFsaWE"
+  },
+  "p.zza giovanni xxiii, 13, varese": {
+    "formatted_address": "Piazza Papa Giovanni XXIII, 13, 21100 Varese VA, Italia",
+    "location": {
+      "lat": 45.8228915,
+      "lng": 8.8191329
+    },
+    "place_id": "EjdQaWF6emEgUGFwYSBHaW92YW5uaSBYWElJSSwgMTMsIDIxMTAwIFZhcmVzZSBWQSwgSXRhbGlh"
+  },
+  "via medardo rosso, milano": {
+    "formatted_address": "Via Medardo Rosso, 20159 Milano, Italia",
+    "location": {
+      "lat": 45.490204,
+      "lng": 9.1849361
+    },
+    "place_id": "ChIJS_Wr6i7BhkcR030pNcvWH7s"
+  },
+  "via confalonieri, 49/b, muggiò": {
+    "formatted_address": "Via Federico Confalonieri, 49B, 20835 Muggiò MB, Italia",
+    "location": {
+      "lat": 45.5781652,
+      "lng": 9.2281278
+    },
+    "place_id": "ChIJTV_WIy65hkcRXUckr29FPyo"
+  },
+  "via aliprandi, 17, monza": {
+    "formatted_address": "Via Aliprandi, 17, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.5855427,
+      "lng": 9.2805763
+    },
+    "place_id": "ChIJ3xWkJJi5hkcR6jM2Y8F4dnU"
+  },
+  "via padre c. vismara, 53, agrate brianza, 20864": {
+    "formatted_address": "Via Padre Clemente Vismara, 53, 20864 Agrate Brianza MB, Italia",
+    "location": {
+      "lat": 45.581152,
+      "lng": 9.357965
+    },
+    "place_id": "ChIJHaDrPiG3hkcRhT5nrhoJmns"
+  },
+  "viale cavriga, 3, monza, 20052": {
+    "formatted_address": "Viale Cavriga, 3, 20900 Villasanta MB, Italia",
+    "location": {
+      "lat": 45.6014391,
+      "lng": 9.297932399999999
+    },
+    "place_id": "Ei1WaWFsZSBDYXZyaWdhLCAzLCAyMDkwMCBWaWxsYXNhbnRhIE1CLCBJdGFsaWE"
+  },
+  "via a. manzoni, 15, sulbiate, 20884": {
+    "formatted_address": "Via Manzoni, 15, 20884 Sulbiate MB, Italia",
+    "location": {
+      "lat": 45.6398102,
+      "lng": 9.434569
+    },
+    "place_id": "ChIJF48X0CWyhkcRwrnIBMrh7nw"
+  },
+  "largo arienti, 66, arcore, 20043": {
+    "formatted_address": "Piazza Carlo Arienti, 66, 20862 Arcore MB, Italia",
+    "location": {
+      "lat": 45.628557,
+      "lng": 9.325956
+    },
+    "place_id": "ChIJga4b7Hm6hkcRRf3GU9Z88Rg"
+  },
+  "viale regina margherita, 15, monza, 20052": {
+    "formatted_address": "Viale Regina Margherita, 15, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.5929,
+      "lng": 9.27176
+    },
+    "place_id": "ChIJHzsi53e5hkcR3uu1fyQ6mlw"
+  },
+  "parco di monza (ingresso dal parcheggio di via deledda a villasanta)": {
+    "formatted_address": "20852 Villasanta MB, Italia",
+    "location": {
+      "lat": 45.606179,
+      "lng": 9.301508700000001
+    },
+    "place_id": "ChIJXSSolxu6hkcRvwzv__-zxfs"
+  },
+  "via amati, 52, monza, 20052": {
+    "formatted_address": "Via Carlo Amati, 52, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.582681,
+      "lng": 9.2917557
+    },
+    "place_id": "EitWaWEgQ2FybG8gQW1hdGksIDUyLCAyMDkwMCBNb256YSBNQiwgSXRhbGlh"
+  },
+  "via talete, 2/a, agrate brianza, 20864": {
+    "formatted_address": "Via Talete, 2, 20864 Agrate Brianza MB, Italia",
+    "location": {
+      "lat": 45.5631689,
+      "lng": 9.324008
+    },
+    "place_id": "ChIJl8J2Una3hkcR8-m1drNlFLY"
+  },
+  "piazza s. eusebio, 9, agrate brianza, 20864": {
+    "formatted_address": "Piazza Sant'Eusebio, 9, 20864 Agrate Brianza MB, Italia",
+    "location": {
+      "lat": 45.5762117,
+      "lng": 9.3506012
+    },
+    "place_id": "ChIJ7a-mRRi3hkcRqkElPt5vO-E"
+  },
+  "via papina, 4/a, arcore, 20862": {
+    "formatted_address": "Via Papina, 4/A, 20862 Arcore MB, Italia",
+    "location": {
+      "lat": 45.6188495,
+      "lng": 9.3155752
+    },
+    "place_id": "ChIJx4skqxK6hkcRF1YiCym6LVE"
+  },
+  "cascina campello, 1, biassono, 20853": {
+    "formatted_address": "Cascina Campello, 1, 20853 Biassono MB, Italia",
+    "location": {
+      "lat": 45.63449,
+      "lng": 9.29839
+    },
+    "place_id": "ChIJDWDkHFq6hkcRXMmrxF2-l0k"
+  },
+  "via increa, 70, brugherio, 20861": {
+    "formatted_address": "Via Increa, 70, 20861 Brugherio MB, Italia",
+    "location": {
+      "lat": 45.54188689999999,
+      "lng": 9.3125888
+    },
+    "place_id": "ChIJvywTlfK3hkcRBJgeCHlaco4"
+  },
+  "busnago, 20874": {
+    "formatted_address": "20874 Busnago MB, Italia",
+    "location": {
+      "lat": 45.6164655,
+      "lng": 9.4644206
+    },
+    "place_id": "ChIJpdtYF6azhkcRmu5nCgU7BtM"
+  },
+  "viale brianza, 25, camparada, 20857": {
+    "formatted_address": "Via Viale Brianza, 25, 20857 Camparada MB, Italia",
+    "location": {
+      "lat": 45.654305,
+      "lng": 9.323626
+    },
+    "place_id": "ChIJja9wWZa6hkcRHuAqnzFlBjg"
+  },
+  "via zappelli, 15, carate brianza, 20841": {
+    "formatted_address": "Via Pietro Zappelli, 15, 20841 Carate Brianza MB, Italia",
+    "location": {
+      "lat": 45.6750741,
+      "lng": 9.2403099
+    },
+    "place_id": "ChIJw0TrKrC8hkcRzREdqcbs7tQ"
+  },
+  "largo kennedy, 1, cavenago di brianza, 20873": {
+    "formatted_address": "Largo Kennedy, 1, 20873 Cavenago di Brianza MB, Italia",
+    "location": {
+      "lat": 45.5801818,
+      "lng": 9.4166847
+    },
+    "place_id": "ChIJKRQQDxu0hkcRz2Qx-YYaBhA"
+  },
+  "via xxiv maggio, 54, lesmo, 20855": {
+    "formatted_address": "Via XXIV Maggio, 54, 20855 Arcore MB, Italia",
+    "location": {
+      "lat": 45.6309692,
+      "lng": 9.3048214
+    },
+    "place_id": "ChIJo4aI41y6hkcRBGZ1eLpa_6c"
+  },
+  "via stefano da seregno, 53, seregno, 20831": {
+    "formatted_address": "Via Stefano da Seregno, 53, 20831 Seregno MB, Italia",
+    "location": {
+      "lat": 45.6469065,
+      "lng": 9.2108247
+    },
+    "place_id": "EjRWaWEgU3RlZmFubyBkYSBTZXJlZ25vLCA1MywgMjA4MzEgU2VyZWdubyBNQiwgSXRhbGlh"
+  },
+  "via cappelletta, 1 -, usmate velate, 20865": {
+    "formatted_address": "Via Cappelletta, 1, 20865 Dosso MB, Italia",
+    "location": {
+      "lat": 45.6608019,
+      "lng": 9.328673
+    },
+    "place_id": "ChIJpaWcWLu6hkcRFvJud2TRlYY"
+  },
+  "via parenzo, 9, milano": {
+    "formatted_address": "Via Parenzo, 9, 20143 Milano, Italia",
+    "location": {
+      "lat": 45.4411867,
+      "lng": 9.1407633
+    },
+    "place_id": "EiRWaWEgUGFyZW56bywgOSwgMjAxNDMgTWlsYW5vLCBJdGFsaWE"
+  },
+  "via missori, 3, monza": {
+    "formatted_address": "Via Giuseppe Missori, 3, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.5849245,
+      "lng": 9.273024
+    },
+    "place_id": "ChIJxd7tgp-5hkcRSbK0IVqDj-w"
+  },
+  "corso matteotti, 36, seregno, 20831": {
+    "formatted_address": "Corso Matteotti, 36, 20831 Seregno MB, Italia",
+    "location": {
+      "lat": 45.648437,
+      "lng": 9.208748
+    },
+    "place_id": "ChIJ7Qo_j_e8hkcRA4U1eOcqlj4"
+  },
+  "via matteo da campione, 8, monza, 20052": {
+    "formatted_address": "Via Matteo da Campione, 8, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.5914667,
+      "lng": 9.267917299999999
+    },
+    "place_id": "ChIJx_qyU3a5hkcRt_yRqZPqPjs"
+  },
+  "via delle leghe, 23, milano": {
+    "formatted_address": "Via delle Leghe, 23, 20127 Milano, Italia",
+    "location": {
+      "lat": 45.4925505,
+      "lng": 9.2171067
+    },
+    "place_id": "ChIJK0AEEeDGhkcRATQKjqFv8tc"
+  },
+  "via a. volta, 17, seregno, 20831": {
+    "formatted_address": "Via Alessandro Volta, 17, 20831 Seregno MB, Italia",
+    "location": {
+      "lat": 45.65096140000001,
+      "lng": 9.205352999999999
+    },
+    "place_id": "EjJWaWEgQWxlc3NhbmRybyBWb2x0YSwgMTcsIDIwODMxIFNlcmVnbm8gTUIsIEl0YWxpYQ"
+  },
+  "via longoni, 150/152, barlassina, 20030": {
+    "formatted_address": "Via Longoni, 150, 20825 Cogliate MB, Italia",
+    "location": {
+      "lat": 45.646709,
+      "lng": 9.1093837
+    },
+    "place_id": "ChIJWcwFxFCWhkcRi5cM-MSxrxM"
+  },
+  "via carnia, 2, monza, 20052": {
+    "formatted_address": "Via Carnia, 2, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.5665288,
+      "lng": 9.2706874
+    },
+    "place_id": "ChIJXz_Ryay5hkcRDQ9aej5TRrI"
+  },
+  "p.zza cesare pavese, 5, villasanta, 20852": {
+    "formatted_address": "Piazza Cesare Pavese, 5, 20852 Villasanta MB, Italia",
+    "location": {
+      "lat": 45.607101,
+      "lng": 9.302567999999999
+    },
+    "place_id": "ChIJk7Y35hi6hkcRVGXzj3vOF2o"
+  },
+  "corso italia, 137, desio, 20832": {
+    "formatted_address": "Corso Italia, 137, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62260999999999,
+      "lng": 9.208331
+    },
+    "place_id": "ChIJi_-oLjy8hkcR-n1mNMPg_EM"
+  },
+  "via pontiggia, 16, seregno, 20832": {
+    "formatted_address": "Via L. Pontiggia, 16, 20831 Seregno MB, Italia",
+    "location": {
+      "lat": 45.6398173,
+      "lng": 9.2179758
+    },
+    "place_id": "Ei5WaWEgTC4gUG9udGlnZ2lhLCAxNiwgMjA4MzEgU2VyZWdubyBNQiwgSXRhbGlh"
+  },
+  "via vittorio emanuele, 4, monza, 20900": {
+    "formatted_address": "Via Vittorio Emanuele II, 4, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.58422849999999,
+      "lng": 9.2761333
+    },
+    "place_id": "ChIJ34IAp5i5hkcROYnw41y41_s"
+  },
+  "viale elvezia, 52, monza, 20900": {
+    "formatted_address": "Viale Elvezia, 52, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.5956607,
+      "lng": 9.248522099999999
+    },
+    "place_id": "EilWaWFsZSBFbHZlemlhLCA1MiwgMjA5MDAgTW9uemEgTUIsIEl0YWxpYQ"
+  },
+  "via s. michele monte, 1/b, robbiano di giussano, 20833": {
+    "formatted_address": "Via Monte S. Michele, 1, 20833 Giussano MB, Italia",
+    "location": {
+      "lat": 45.696664,
+      "lng": 9.221567
+    },
+    "place_id": "ChIJw2rV8ySjhkcRwPKRuU2VNH4"
+  },
+  "via pietro crespi, 14, milano, 20127": {
+    "formatted_address": "Via Pietro Crespi, 14, 20127 Milano, Italia",
+    "location": {
+      "lat": 45.49314649999999,
+      "lng": 9.2203609
+    },
+    "place_id": "ChIJfcj12-HGhkcRZYGiey6wnhc"
+  },
+  "via borromeo, 29, cesano maderno, 20811": {
+    "formatted_address": "Via S. Carlo Borromeo, 29, 20811 Cesano Maderno MB, Italia",
+    "location": {
+      "lat": 45.6291354,
+      "lng": 9.146980899999999
+    },
+    "place_id": "ChIJY_PFSfS9hkcRq0GUwrWGB8U"
+  },
+  "via g. rossini, 102, desio, 20832": {
+    "formatted_address": "Via Gioacchino Rossini, 102, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6096718,
+      "lng": 9.2168181
+    },
+    "place_id": "ChIJZ4t2Dx28hkcR5sVysAdFr3E"
+  },
+  "via gerardo dei tintori, 18, monza, 20090": {
+    "formatted_address": "Via Gerardo dei Tintori, 18, 20900 Monza MB, Italia",
+    "location": {
+      "lat": 45.5855715,
+      "lng": 9.279188399999999
+    },
+    "place_id": "ChIJO0R_UJi5hkcRuqoYCYAJ11o"
+  },
+  "via a. grandi, 18, arcore, 20862": {
+    "formatted_address": "Via Achille Grandi, 18, 20862 Arcore MB, Italia",
+    "location": {
+      "lat": 45.6347,
+      "lng": 9.338028
+    },
+    "place_id": "ChIJ1461yICwhkcRzhPI_M9Mcy8"
+  },
+  "piazza della trivulziana, 5, milano, 20126": {
+    "formatted_address": "Piazza della Trivulziana, 5, 20126 Milano, Italia",
+    "location": {
+      "lat": 45.51536,
+      "lng": 9.21139
+    },
+    "place_id": "ChIJfd9kfEjHhkcRZvNeI0X6Pbc"
+  },
+  "via a. meucci, 39, milano, 20100": {
+    "formatted_address": "Via Privata Antonio Meucci, 39, 20128 Milano, Italia",
+    "location": {
+      "lat": 45.5088635,
+      "lng": 9.243497
+    },
+    "place_id": "ChIJS0oykgrHhkcRz78QVi4TrZI"
+  },
+  "viale piave, 17, milano, 20100": {
+    "formatted_address": "Viale Piave, 17, 20129 Milano, Italia",
+    "location": {
+      "lat": 45.4708324,
+      "lng": 9.206367199999999
+    },
+    "place_id": "ChIJSc84f77GhkcR6O73-jwKhss"
+  },
+  "strada bobbiese, 26, piacenza, 29122": {
+    "formatted_address": "Str. Bobbiese, 26, 29122 Piacenza PC, Italia",
+    "location": {
+      "lat": 45.02718000000001,
+      "lng": 9.681569999999999
+    },
+    "place_id": "ChIJsyk-raXCgEcRjBOcR3Vc-sU"
+  },
+  "via felice casati, 12, milano, 20124": {
+    "formatted_address": "Via Felice Casati, 12, 20124 Milano, Italia",
+    "location": {
+      "lat": 45.4782023,
+      "lng": 9.2051602
+    },
+    "place_id": "ChIJKT_b18bGhkcR0trmN05tTkA"
+  },
+  "via della frezza, 16, roma, 00186": {
+    "formatted_address": "Via della Frezza, 16, 00186 Roma, Italia",
+    "location": {
+      "lat": 41.9069266,
+      "lng": 12.4766566
+    },
+    "place_id": "EihWaWEgZGVsbGEgRnJlenphLCAxNiwgMDAxODYgUm9tYSwgSXRhbGlh"
+  },
+  "via garibaldi, 31, desio, 20832": {
+    "formatted_address": "Via Giuseppe Garibaldi, 31, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616979,
+      "lng": 9.207168
+    },
+    "place_id": "ChIJr8zD4CK8hkcRUl3o37I8Ysw"
+  },
+  "c.so italia, 14, desio, 20832": {
+    "formatted_address": "Corso Italia, 14, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617916,
+      "lng": 9.207524
+    },
+    "place_id": "ChIJr5Wu1iK8hkcRyk8YfVeE7To"
+  },
+  "p.za conciliazione, desio, 20832": {
+    "formatted_address": "Piazza Conciliazione, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6173708,
+      "lng": 9.2075824
+    },
+    "place_id": "ChIJEyR62yK8hkcR-OBxYKu_AIg"
+  },
+  "corso italia, 49, desio, 20832": {
+    "formatted_address": "Corso Italia, 49, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6182639,
+      "lng": 9.2074379
+    },
+    "place_id": "ChIJwfvRKj28hkcRokDDnn14MWU"
+  },
+  "via vismara, 87, agrate brianza": {
+    "formatted_address": "Via Padre Clemente Vismara, 87, 20864 Agrate Brianza MB, Italia",
+    "location": {
+      "lat": 45.5811601,
+      "lng": 9.3575971
+    },
+    "place_id": "ChIJnRaKPSG3hkcRV4Z47tn5TAA"
+  }
+}
